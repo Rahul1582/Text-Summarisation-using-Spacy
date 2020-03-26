@@ -11,7 +11,7 @@ The Idea of summarization is to find a subset of data which contains the “info
 
 2. Natural Language Processing
 
-3.Spacy
+3. Spacy
 
 ```
 
