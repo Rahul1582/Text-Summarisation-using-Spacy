@@ -4,6 +4,8 @@ Text summarization is the process of finding the most important information from
 
 The Idea of summarization is to find a subset of data which contains the “information” of the entire set.
 
+The Flask app is finally deployed to Heroku.
+
 
 # Technologies Used
 ```
