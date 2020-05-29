@@ -1,1 +1,1 @@
-web: gunicorn text_sum_flask:app
+web: gunicorn app:app
