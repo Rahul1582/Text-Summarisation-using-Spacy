@@ -3,3 +3,4 @@ numpy==1.18.4
 Flask==1.1.2
 matplotlib==3.2.1
 gunicorn==19.9.0
+en-core-web-sm==2.1.0
