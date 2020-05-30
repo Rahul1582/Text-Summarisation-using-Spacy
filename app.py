@@ -13,6 +13,7 @@ import os
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
+import en_core_web_sm
 
 app = Flask(__name__)
 
@@ -29,7 +30,7 @@ def my_form_post():
     stopwords = list(STOP_WORDS)
     
     doc1=data
-    nlp =spacy.load('en_core_web_sm')
+    nlp = en_core_web_sm.load()
     
     docx = nlp(doc1)
     
