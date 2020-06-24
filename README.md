@@ -9,11 +9,9 @@ The Flask app is finally deployed to Heroku.
 
 # Technologies Used
 ```
-1. Python
+1. Natural Language Processing
 
-2. Natural Language Processing
-
-3. Spacy
+2. Spacy
 
 ```
 
